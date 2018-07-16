@@ -370,9 +370,9 @@ footer {
   {
     column-count: 2;
   }
-  .navbar
+  .navbar a
   {
-    width: 90%;
+    font-size: 1.2em;
   }
 }
 
